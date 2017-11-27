@@ -5,3 +5,4 @@
 *.Rproj
 data/
 .httr-oauth
+.Rproj.user
